@@ -1,6 +1,12 @@
 # SafeSpam
 Easy Spam &amp; Disposable Email Detector, Developed by [Rohit Chouhan](https://facebook.com/itsrohitofficailprofile)
 
+`Safe Email` 
+![Safespam Safe](https://i.ibb.co/sHBjc2c/safespam-safe.gif)
+
+`Spam Email` 
+![Safespam UnSafe](https://i.ibb.co/NjT208w/safespan-unsafe.gif)
+
 ### Requirement
 - Python 3.9.0
 - termcolor dependency
