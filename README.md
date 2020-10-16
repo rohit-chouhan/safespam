@@ -1,5 +1,5 @@
 # SafeSpam
-Easy Spam &amp; Disposable Email Detector, Developed by [Rohit Chouhan](https://facebook.com/itsrohitofficailprofile)
+Easy Spam &amp; Disposable Email Detector, Developed by [Rohit Chouhan](https://facebook.com/itsrohitofficialprofile)
 
 `Safe Email` 
 
